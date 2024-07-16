@@ -27,5 +27,5 @@ sudo apt-get purge lazarus-project
 printf "\n${CYAN}Комадна: sudo apt-get autoremove${NOCOLOR}\n"
 sudo apt-get autoremove
 
-printf "\n${MSGCOLOR}Если во время выполнения скрипта не произошло ошибок, то все успешно удалено.${NOCOLOR}"
+printf "\n${MSGCOLOR}Если во время выполнения скрипта не произошло ошибок, то все успешно удалено.${NOCOLOR}\n"
 printf "\n${CYAN}Теперь Вы можете закрыть окно.${NOCOLOR}"
