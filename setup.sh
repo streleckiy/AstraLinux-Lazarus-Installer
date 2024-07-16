@@ -5,7 +5,7 @@ MSGCOLOR='\033[1;32m'
 NOCOLOR='\033[0m'
 CYAN='\033[0;36m'
 
-printf "${MSGCOLOR}Дмитрий Баринов, СКБ ПСИС. Установщик Lazarus.${NOCOLOR}\n"
+printf "${MSGCOLOR}Разработано itstd, СКБ ПСИС. Установщик Lazarus.${NOCOLOR}\n"
 
 printf "\n${CYAN}Обновление пакетов... (update)${NOCOLOR}\n"
 sudo apt update
